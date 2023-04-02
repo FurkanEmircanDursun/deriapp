@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>953815861513-blvlh381sv0pld5mkpqjo1kvslsuom8m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.953815861513-blvlh381sv0pld5mkpqjo1kvslsuom8m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAYnpOVl2mDded_wSOY5h59TFJKyT5FTLc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>953815861513</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.denizli.ulku.ocaklari.deriapp</string>
+	<key>PROJECT_ID</key>
+	<string>denizli-ulku-ocaklari</string>
+	<key>STORAGE_BUCKET</key>
+	<string>denizli-ulku-ocaklari.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:953815861513:ios:7d5cdbfda16f15d75e2bd8</string>
+</dict>
+</plist>
